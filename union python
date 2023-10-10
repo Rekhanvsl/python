@@ -1,0 +1,8 @@
+A = {2, 3, 5}
+B = {1, 3, 5}
+
+# compute union between A and B
+print('A U B = ', A.union(B))
+
+
+# Output: A U B =  {1, 2, 3, 5}
